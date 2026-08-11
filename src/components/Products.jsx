@@ -30,28 +30,28 @@ export default function Products() {
     {
       name: "Cookie",
       description:
-        "Cookie crocante por fora e macio por dentro, perfeito para acompanhar seu café.",
+        "Cookie crocante por fora, macio por dentro e recheado com muito chocolate. Perfeito para acompanhar seu café.",
       image:
         "https://docesdangelo.com.br/site/wp-content/uploads/2024/10/9-1.png",
     },
     {
-      name: "Bolo de Chocolate",
+      name: "Bolo de Iorgute",
       description:
-        "Bolo fofinho e saboroso, preparado para deixar seu café ainda mais especial.",
+        "Bolo fofinho e saboroso, preparado para deixar seu café ainda mais especial. Uma opção deliciosa para qualquer hora!",
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr6fKVDuXeSfc61QvHJW90Kidd5r1uuPCuYKJ5L75fQkL4OLFt_sWG24A&s=10",
     },
     {
       name: "Croissant",
       description:
-        "Croissant dourado, leve e crocante, perfeito para qualquer momento do dia.",
+        "Croissant dourado e crocante, recheado com queijo, presunto e folhas frescas. Leve e deliciosa para qualquer hora.",
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOh-XLqzRB-coy7fv8vRhrzTR_N-943sMEm2eOZJ2fsg&s=10",
     },
     {
       name: "Brownie",
       description:
-        "Brownie de chocolate com nozes, macio, intenso e muito saboroso.",
+        "Brownie de chocolate intenso, macio e úmido, recheado com uma camada de caramelo. Sobremesa irresistível.",
       image:
         "https://swiftbr.vteximg.com.br/arquivos/ids/211295/623140-brownie-de-chocolate-com-nozes-mr-bey_rec.jpg?v=638963252535530000",
     },
@@ -77,7 +77,7 @@ export default function Products() {
 
           <p className="mt-4 text-[#5A4538] max-w-xl">
             Cafés especiais, doces e outras delícias preparados
-            com muito carinho pelo Bocatti Café.
+            com muito carinho pelo Boscatti Café.
           </p>
 
         </div>

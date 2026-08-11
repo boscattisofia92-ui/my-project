@@ -17,7 +17,7 @@ export default function Benefits() {
         <div className="mb-12">
 
           <p className="text-sm uppercase tracking-[0.3em] text-[#F4D8BD] font-bold mb-3">
-            Por que escolher o Bocatti?
+            Por que escolher o Boscatti?
           </p>
 
           <h2 className="text-4xl md:text-5xl font-bold text-white">
@@ -25,7 +25,7 @@ export default function Benefits() {
           </h2>
 
           <p className="mt-5 text-[#FFF4E9] max-w-xl leading-7 text-lg">
-            No Bocatti Café, cada detalhe é pensado para transformar
+            No Boscatti Café, cada detalhe é pensado para transformar
             uma simples pausa em um momento especial.
           </p>
 
@@ -38,11 +38,11 @@ export default function Benefits() {
           <div className="bg-[#E3C7AD] p-8 min-h-[260px] rounded-2xl shadow-lg">
 
             <span className="text-sm font-bold text-[#70452F]">
-              01
+              
             </span>
 
             <h3 className="text-2xl font-bold text-[#35251F] mt-12">
-              Café especial
+            ✴︎  Café especial
             </h3>
 
             <p className="mt-4 text-[#5A4538] leading-7">
@@ -56,11 +56,11 @@ export default function Benefits() {
           <div className="bg-[#D6B79A] p-8 min-h-[260px] rounded-2xl shadow-lg">
 
             <span className="text-sm font-bold text-[#603D2A]">
-              02
+              
             </span>
 
             <h3 className="text-2xl font-bold text-[#35251F] mt-12">
-              Ingredientes frescos
+             ✴︎ Ingredientes frescos
             </h3>
 
             <p className="mt-4 text-[#513D31] leading-7">
@@ -74,11 +74,11 @@ export default function Benefits() {
           <div className="bg-[#C5A184] p-8 min-h-[260px] rounded-2xl shadow-lg">
 
             <span className="text-sm font-bold text-[#4F3021]">
-              03
+              
             </span>
 
             <h3 className="text-2xl font-bold text-[#35251F] mt-12">
-              Ambiente agradável
+              ✴︎ Ambiente agradável
             </h3>
 
             <p className="mt-4 text-[#49372C] leading-7">

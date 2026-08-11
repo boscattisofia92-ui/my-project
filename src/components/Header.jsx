@@ -16,7 +16,7 @@ export default function Header() {
             className="flex flex-col no-underline border-0 outline-none"
           >
             <span className="text-2xl font-bold tracking-[0.15em] text-white">
-              BOCATTI
+              BOSCATTI
             </span>
 
             <span className="text-[10px] tracking-[0.45em] text-[#E3C7AD]">
